@@ -1,1 +1,1 @@
-# Random-Sentences-Generator
+# RandomSentencesGeneratorbyRosenGoranov
